@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi , I'm Juani Centeno </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+Welcome+to+my+profile,;I+am+a+Web+Developer,;Specialized+in+React.js,;Passionate+about+Front-End,;Love+building+interactive+UIs,;Always+learning+new+technologies!+🚀">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+Welcome+to+my+profile,;I+am+a+Web+Developer,;Passionate+about+Front-End,;Love+building+interactive+UIs,;Always+learning+new+technologies!+🚀">
   </a>
 </p>
 
@@ -9,9 +9,9 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a passionate Web Developer specialized in React.js. I love building modern, interactive, and user-friendly web applications.
+I'm a passionate Web Developer. I love building modern, interactive, and user-friendly web applications.
 
-I also have experience working with databases, SQL (MySQL) and NoSQL (MongoDB). In addition, I'm proficient in Node.js, which allows me to work on full-stack projects.
+I also have experience working with databases, SQL (MySQL).
 
 My skills also include CSS, where I focus on crafting responsive and visually appealing designs, and SEO, ensuring websites are optimized for search engines.
 
@@ -40,10 +40,7 @@ Let's connect and build something amazing together!
 <br>   
 
 - **Backend & Database**:
-  
-    ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+      ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br>
     
 - **Frameworks**:
@@ -61,23 +58,12 @@ Let's connect and build something amazing together!
 <br>
 
 - **Softwares and Tools**:
-  
-    ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-    ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
     ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <br>
-
-- **Check out my Social Media**:
-  
-  <a href="https://www.instagram.com/juani.cente">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-
 </p>
 
 <br>
