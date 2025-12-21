@@ -22,7 +22,7 @@ Let's connect and build something amazing together!
   - Design UI/UX
 - ✔ Ask me about anything, I am happy to help<br>
 - Outside tech, 💜I love play videogames, 🎵 listening to music, and 💪 I'm a total gym bro.
-- Personal website [link](https://simplicitysoftware.site)
+- Personal website [link](https://juani-portfolio-six.vercel.app)
 - 📫 Reach out to me at: <a href="juanignaciocenteno5@gmail.com">juanignaciocenteno5@gmail.com</a>
 
 
