@@ -9,22 +9,41 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I'm a passionate Web Developer. I love building modern, interactive, and user-friendly web applications.
+# 👋 Hi, I'm Juan Ignacio Centeno
 
-I also have experience working with databases, SQL (MySQL).
+[cite_start]I am a **Full-Stack Web Developer** with over 3 years of experience in real-world projects. [cite_start]I specialize in creating, modernizing, and maintaining institutional websites with a focus on performance and user experience[cite: 5, 25].
 
-My skills also include CSS, where I focus on crafting responsive and visually appealing designs, and SEO, ensuring websites are optimized for search engines.
+### 🚀 What I'm doing right now
+* [cite_start]🎓 Pursuing a **University Technical Degree in Programming** at **UTN**[cite: 37, 38].
+* [cite_start]💻 Developing high-performance sites using **Astro** and **Next.js**[cite: 12, 18].
+* [cite_start]🐧 Managing **Linux (Debian)** infrastructure and corporate server environments[cite: 19, 48].
+* [cite_start]🛠️ Automating workflows and digital strategies for hospitality brands[cite: 20, 21].
 
-I'm always eager to learn new technologies and improve my skills to create high-performance and scalable web applications. 🚀
+### 🛠️ Technical Toolbox
+* [cite_start]**Front-End:** HTML5, CSS3, JavaScript (ES6+), React, Astro, Next.js[cite: 46].
+* [cite_start]**Back-End & DB:** SQL, Lua, Git & GitHub[cite: 47].
+* [cite_start]**DevOps:** Linux Servers (Debian), Nginx, Domain & Hosting management[cite: 19, 48].
+* [cite_start]**Design:** Figma, Canva (Certified in UX/UI Design)[cite: 40, 49].
 
-Let's connect and build something amazing together!
-- 🌱 I’m currently learning ...
-  - Design UI/UX
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love play videogames, 🎵 listening to music, and 💪 I'm a total gym bro.
-- Personal website [link](https://juani-portfolio-six.vercel.app)
-- 📫 Reach out to me at: <a href="juanignaciocenteno5@gmail.com">juanignaciocenteno5@gmail.com</a>
+### 🌱 Currently learning
+* [cite_start]Advanced software architecture and system logic at UTN[cite: 7, 37].
+* [cite_start]Exploring new ways to optimize SEO and web performance[cite: 12].
 
+### ✨ Beyond the code
+* 🎮 I'm a gamer at heart (The Sims 4, Counter-Strike, F1 Manager).
+* 🎵 Huge fan of Nu-metal and Alternative Rock, especially Three Days Grace.
+* 💪 Dedicated gym bro and fitness enthusiast.
+* 🎨 Passionate about dark-aesthetic art (proud owner of a *The Last of Us* Clicker tattoo).
+* ⚽ Boca Juniors fan.
+
+---
+
+### 📩 Let's connect!
+* [cite_start]**Portfolio:** [juani-portfolio-six.vercel.app](https://juani-portfolio-six.vercel.app) [cite: 3]
+* [cite_start]**LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-ignacio-centeno/) [cite: 3]
+* [cite_start]**Email:** [juanignaciocenteno5@gmail.com](mailto:juanignaciocenteno5@gmail.com) [cite: 2]
+
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
