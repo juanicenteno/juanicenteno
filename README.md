@@ -11,37 +11,34 @@
 
 # 👋 Hi, I'm Juan Ignacio Centeno
 
-[cite_start]I am a **Full-Stack Web Developer** with over 3 years of experience in real-world projects. [cite_start]I specialize in creating, modernizing, and maintaining institutional websites with a focus on performance and user experience[cite: 5, 25].
+I am a **Full-Stack Web Developer** with over 3 years of experience in real-world projects. [cite_start]I specialize in creating, modernizing, and maintaining institutional websites with a focus on performance and user experience[cite: 5, 25].
 
 ### 🚀 What I'm doing right now
-* [cite_start]🎓 Pursuing a **University Technical Degree in Programming** at **UTN**[cite: 37, 38].
-* [cite_start]💻 Developing high-performance sites using **Astro** and **Next.js**[cite: 12, 18].
-* [cite_start]🐧 Managing **Linux (Debian)** infrastructure and corporate server environments[cite: 19, 48].
-* [cite_start]🛠️ Automating workflows and digital strategies for hospitality brands[cite: 20, 21].
+* 🎓 Pursuing a **University Technical Degree in Programming** at **UTN**[cite: 37, 38].
+* 💻 Developing high-performance sites using **Astro** and **Next.js**[cite: 12, 18].
+* 🐧 Managing **Linux (Debian)** infrastructure and corporate server environments[cite: 19, 48].
+* 🛠️ Automating workflows and digital strategies for hospitality brands[cite: 20, 21].
 
 ### 🛠️ Technical Toolbox
-* [cite_start]**Front-End:** HTML5, CSS3, JavaScript (ES6+), React, Astro, Next.js[cite: 46].
-* [cite_start]**Back-End & DB:** SQL, Lua, Git & GitHub[cite: 47].
-* [cite_start]**DevOps:** Linux Servers (Debian), Nginx, Domain & Hosting management[cite: 19, 48].
-* [cite_start]**Design:** Figma, Canva (Certified in UX/UI Design)[cite: 40, 49].
+* **Front-End:** HTML5, CSS3, JavaScript (ES6+), React, Astro, Next.js[cite: 46].
+* **Back-End & DB:** SQL, Lua, Git & GitHub[cite: 47].
+* **DevOps:** Linux Servers (Debian), Nginx, Domain & Hosting management[cite: 19, 48].
+* **Design:** Figma, Canva (Certified in UX/UI Design)[cite: 40, 49].
 
 ### 🌱 Currently learning
-* [cite_start]Advanced software architecture and system logic at UTN[cite: 7, 37].
-* [cite_start]Exploring new ways to optimize SEO and web performance[cite: 12].
+* Advanced software architecture and system logic at UTN[cite: 7, 37].
+* Exploring new ways to optimize SEO and web performance[cite: 12].
 
 ### ✨ Beyond the code
-* 🎮 I'm a gamer at heart (The Sims 4, Counter-Strike, F1 Manager).
+* 🎮 I'm a gamer at heart (Counter-Strike, F1, FIFA).
 * 🎵 Huge fan of Nu-metal and Alternative Rock, especially Three Days Grace.
 * 💪 Dedicated gym bro and fitness enthusiast.
-* 🎨 Passionate about dark-aesthetic art (proud owner of a *The Last of Us* Clicker tattoo).
-* ⚽ Boca Juniors fan.
-
 ---
 
 ### 📩 Let's connect!
-* [cite_start]**Portfolio:** [juani-portfolio-six.vercel.app](https://juani-portfolio-six.vercel.app) [cite: 3]
-* [cite_start]**LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-ignacio-centeno/) [cite: 3]
-* [cite_start]**Email:** [juanignaciocenteno5@gmail.com](mailto:juanignaciocenteno5@gmail.com) [cite: 2]
+* **Portfolio:** [juani-portfolio-six.vercel.app](https://juani-portfolio-six.vercel.app) 
+* **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/juan-ignacio-centeno/) 
+* **Email:** [juanignaciocenteno5@gmail.com](mailto:juanignaciocenteno5@gmail.com) 
 
 ---
 
